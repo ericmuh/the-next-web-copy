@@ -1,0 +1,19 @@
+#row-1{
+
+    height:40px;
+    
+    background-color: black;
+}
+nav{
+    height:40px;
+    font-weight: 20px;
+    color:white;
+}
+
+ ul #ul-right
+{
+    float:right;
+}
+/* div{
+    border: 1px solid blue;
+}  */
