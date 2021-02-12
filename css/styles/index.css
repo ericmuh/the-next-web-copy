@@ -16,4 +16,34 @@ nav{
 }
 /* div{
     border: 1px solid blue;
+    sans-serif
 }  */
+
+/* #row-2{
+    font-family: Shentox;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: #aaa;
+    display: block;
+    height: 48px;
+    letter-spacing: .04em;
+    margin-top: 0px;
+    padding: 18px 10px 0;
+} */
+
+#row-2{
+    font-family: Shentox;
+    font-weight: bolder;
+    font-size: 12px;
+    padding: 20px 10px 0;
+height: 150px;
+text-transform: uppercase;
+
+
+}
+
+#row-3 p{
+
+    font-size: 12px;
+    padding-top: 5px;
+}
