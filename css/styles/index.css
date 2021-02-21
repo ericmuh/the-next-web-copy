@@ -85,12 +85,12 @@ nav{
     height:50%;
 }
 
-#grid-img-1{
-    background:url(/images/paris.jpg);
+/* #grid-img-1{
+     background:url(/images/paris.jpg); 
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+ */
 .logo{
         color:white;
         font-weight: bolder;
