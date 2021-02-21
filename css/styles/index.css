@@ -19,10 +19,10 @@ nav{
 {
     float:right;
 }
-div{
+ /* div{
     border: 1px solid blue;
     
-} 
+}   */
 
 /* #row-2{
     font-family: Shentox;
@@ -186,7 +186,7 @@ div{
 
 
 .card img{
-    width:259.66px;
+    width:279.66px;
     height:129.83px;
 }
 
@@ -256,14 +256,77 @@ ul li a{
 }
 .footer{
 
-    width:1900px;
-    height: 258px;
+    width:1930px;
+    height: 260px;
     margin-bottom: 0px;
     margin-top: 4300px;
 
 }
 
+.deals li > a{
+    color: red;
+
+    font-weight:bolder;
+    font-size: 16px;
+   
+    letter-spacing: 0.15em;
+    line-height:19px;
+    /*text-transform: uppercase;*/
+}
 
 
+    #ul-menu li::after {
+        
+        content: "|";
+        
+        float: right;
+        
+        color: red;
+        
+  }
+        
+#ul-menu li:last-child::after {
+        
+  display: none;
+        
+  }
 
+  .col-md-5 {
+    margin-top: 30px;
+    color:red
+   
+  }
+
+  #card-2{
+    width:260px;
+    height:280.13px
+
+  }
+
+
+  .col-md-5 h4{
+ text-align: center;
+
+  }
+
+  .col-md-12  img{
+      width:1930px; 
+  }    
+
+  .heading-9{
+      font-weight:bolder;
+      color:red;
+  }
+
+
+/* .standard-nav li > a{
+    color: #ffffff;
+    font-family: "Vegur Light";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.15em;
+    line-height:19px;
+    /*text-transform: uppercase;*/
+
+ 
 
